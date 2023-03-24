@@ -1,2 +1,2 @@
-# -imjohnbo-Go
-learn-go
+# -rrconey-Go
+learn-go today!
